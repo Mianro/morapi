@@ -1,0 +1,72 @@
+!SESSION 2024-09-07 11:40:22.469 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_CL
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-09-07 11:40:44.122
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-09-07 11:40:44.123
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-09-07 11:40:44.123
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-09-07 11:40:44.123
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY com.espressif.idf.core 1 0 2024-09-07 11:40:50.272
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2024-09-07 11:40:50.273
+!MESSAGE idf_tools.py path: null/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2024-09-07 11:40:50.273
+!MESSAGE idf_tools.py path doesn't exist
+
+!ENTRY com.espressif.idf.core 1 0 2024-09-07 11:40:50.273
+!MESSAGE [/usr/bin:/bin:/usr/sbin:/sbin]
+
+!ENTRY com.espressif.idf.core 1 0 2024-09-07 11:40:50.384
+!MESSAGE Eclipse Install location::file:/Applications/Espressif-IDE.app/Contents/Eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-09-07 11:40:50.384
+!MESSAGE esp-idf.json file doesnt exist at this location: /Applications/Espressif-IDE.app/Contents/Eclipse/
+!SESSION 2024-09-07 11:41:38.022 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_CL
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -data file:/Users/mrm/Documents/morapi/
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-09-07 11:41:40.656
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-09-07 11:41:40.657
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-09-07 11:41:40.657
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2024-09-07 11:41:40.658
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY com.espressif.idf.core 1 0 2024-09-07 11:41:41.116
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2024-09-07 11:41:41.117
+!MESSAGE idf_tools.py path: null/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2024-09-07 11:41:41.117
+!MESSAGE idf_tools.py path doesn't exist
+
+!ENTRY com.espressif.idf.core 1 0 2024-09-07 11:41:41.118
+!MESSAGE [/usr/bin:/bin:/usr/sbin:/sbin]
+
+!ENTRY com.espressif.idf.core 1 0 2024-09-07 11:41:41.203
+!MESSAGE Eclipse Install location::file:/Applications/Espressif-IDE.app/Contents/Eclipse/
+
+!ENTRY com.espressif.idf.core 1 0 2024-09-07 11:41:41.203
+!MESSAGE esp-idf.json file doesnt exist at this location: /Applications/Espressif-IDE.app/Contents/Eclipse/
